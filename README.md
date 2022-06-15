@@ -1,5 +1,6 @@
 # PlayerInfo
 This plugin gives you the option to set up your own PlayerInfo
+![img](https://img.shields.io/github/downloads/VersLugia/PlayerInfo/total?style=for-the-badge)
 
 # Config
 ```yml
